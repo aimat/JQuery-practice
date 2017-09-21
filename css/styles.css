@@ -1,0 +1,82 @@
+body{
+  text-align: center;
+}
+
+#sangetsu{
+  margin-top: 35px;
+  margin-bottom: 100px;
+  cursor:pointer;
+  user-select: none;
+}
+
+#sea{
+  width:700px;
+  height:300px;
+}
+
+#mountain{
+  display: none;
+  width:700px;
+  height:300px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  display: inline-block;
+}
+
+#button{
+  margin: 100px auto 106px;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background: #008000;
+  line-height: 300px;
+  font-size: 60px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 10px 0 #006400;
+  border: 3px solid #006400;
+  user-select: none;
+}
+
+#number{
+  width: 300px;
+  height: 50px;
+  font-size: 25px;
+  margin-right: 30px;
+}
+
+#submit{
+  width: 120px;
+  height: 50px;
+  font-size: 25px;
+}
+
+#mati{
+  margin-top: 100px;
+}
+
+#one{
+  margin-right: 50px;
+}
+
+#two{
+  cursor: pointer;
+}
+
+.gazou{
+  width: 350px;
+  height: 450px;
+  margin-bottom: 50px;
+}
+
+.fa-arrow-up{
+  position: fixed;
+  right: 30px;
+  bottom: 20px;
+  cursor: pointer;
+}
